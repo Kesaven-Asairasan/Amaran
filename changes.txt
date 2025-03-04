@@ -1,0 +1,69 @@
+1.4
+- Added WordPress 6.4.1 compatibility
+- Added WooCommerce 8.2.2 compatibility
+- Added support for core/search block
+- Added support for Filter By Price block widget
+- Added touchup_validate_pagination_data helper function
+- Added option to disable Google Fonts loading if global option (Enable Google Fonts) is set to No
+- Added Qi Blocks plugin as required plugin
+- Updated Qode Framework plugin to 1.2.2
+- Updated TouchUp Core plugin to 1.2
+- Updated Revolution Slider plugin to 6.6.18
+- Updated Timetable Responsive Schedule plugin to 7.2
+- Updated Booked plugin to 2.4.4
+- Updated Swiper to 8.4.5
+- Fixed elementor deprecated functions
+- Fixed potential security vulnerability for theme and qode-framework
+- Improved PHP8 compatibility
+- Improved Google Maps API with callback function
+- Improved TGMPA functionality
+- Improved Instagram shortcode functionality
+- Improved title tag escaping
+
+1.3
+- Added WordPress 6.0.2 compatibility
+- Added WooCommerce 6.9.2 compatibility
+- Added PHP8 compatibility
+- Updated Qode Framework plugin to 1.1.9
+- Updated TouchUp Core plugin to 1.1
+- Updated Revolution Slider plugin to 6.5.31
+- Updated Timetable Responsive Schedule plugin to 7.0
+- Updated Booked plugin to 2.4
+- Updated TouchUp Child theme to 1.0.1
+- Fixed Accordion Toggle variation on Elementor
+- Fixed deprecated _register_controls function issue
+- Fixed swiper script
+- Fixed swiper autoplay
+- Fixed TouchUp Core plugin translation
+- Fixed custom class excluding for shortcodes
+- Fixed cart widgets in WordPress 5.8
+- Improved import for PHP8
+- Improved social share
+- Improved theme registration functionality
+- Improved theme registration - code already used case
+- Improved theme registration to block Shortcodes and CPT loading if the theme is not registered
+- Theme Validation Rest Endpoint
+- Replaced incorrect demo import image
+
+1.2
+- Added compatibility with Qi Addons for Elementor plugin
+- Added WordPress 5.7.1 compatibility
+- Added WooCommerce 5.2.2 compatibility
+- Updated Revolution Slider plugin to 6.4.11
+- Updated Booked plugin to 2.3.5
+- Updated Timetable Responsive Schedule plugin to 6.6
+
+1.1
+- Added WordPress 5.5 compatibility
+- Updated Qode Framework plugin to 1.1.3
+- Updated TouchUp Core plugin to 1.0.1
+- Updated Revolution Slider plugin to 6.2.22
+- Updated Timetable Responsive Schedule plugin to 6.2
+
+1.0.1
+- Elementor fields import fix
+- Prevent membership to redirect to user dashboard page when you searching
+- Fixed custom font global option functionality
+- Removed unnecessary tag from WooCommerce cart widgets
+- Fixed NaN value - WooCommerce quantity input fields
+- Instagram/Twitter plugin deactivation error fix
